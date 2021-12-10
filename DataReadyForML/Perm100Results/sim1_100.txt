@@ -1,0 +1,3010 @@
+Average accuracy for round 1 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 1 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 2 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 2 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 3 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 3 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 4 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 4 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 5 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 5 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 6 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 6 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 7 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 7 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 8 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 8 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 9 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 9 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 10 of matrix permutations: 0.616
+
+INFO:__main__:Average accuracy for round 10 of matrix permutations: 0.616
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 11 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 11 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 12 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 12 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 13 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 13 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 14 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 14 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 15 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 15 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 16 of matrix permutations: 0.656
+
+INFO:__main__:Average accuracy for round 16 of matrix permutations: 0.656
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 17 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 17 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 18 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 18 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 19 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 19 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 20 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 20 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 21 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 21 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 22 of matrix permutations: 0.736
+
+INFO:__main__:Average accuracy for round 22 of matrix permutations: 0.736
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 23 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 23 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 24 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 24 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 25 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 25 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 26 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 26 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 27 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 27 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 28 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 28 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 29 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 29 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 30 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 30 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 31 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 31 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 32 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 32 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 33 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 33 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 34 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 34 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 35 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 35 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 36 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 36 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 37 of matrix permutations: 0.656
+
+INFO:__main__:Average accuracy for round 37 of matrix permutations: 0.656
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 38 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 38 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 39 of matrix permutations: 0.744
+
+INFO:__main__:Average accuracy for round 39 of matrix permutations: 0.744
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 40 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 40 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 41 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 41 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 42 of matrix permutations: 0.616
+
+INFO:__main__:Average accuracy for round 42 of matrix permutations: 0.616
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 43 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 43 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 44 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 44 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 45 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 45 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 46 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 46 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 47 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 47 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 48 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 48 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 49 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 49 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 50 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 50 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 51 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 51 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 52 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 52 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 53 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 53 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 54 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 54 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 55 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 55 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 56 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 56 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 57 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 57 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 58 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 58 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 59 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 59 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 60 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 60 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 61 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 61 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 62 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 62 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 63 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 63 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 64 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 64 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 65 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 65 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 66 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 66 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 67 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 67 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 68 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 68 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 69 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 69 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 70 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 70 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 71 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 71 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 72 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 72 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 73 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 73 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 74 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 74 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 75 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 75 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 76 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 76 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 77 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 77 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 78 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 78 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 79 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 79 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 80 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 80 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 81 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 81 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 82 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 82 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 83 of matrix permutations: 0.616
+
+INFO:__main__:Average accuracy for round 83 of matrix permutations: 0.616
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 84 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 84 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 85 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 85 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 86 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 86 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 87 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 87 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 88 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 88 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 89 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 89 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 90 of matrix permutations: 0.64
+
+INFO:__main__:Average accuracy for round 90 of matrix permutations: 0.64
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 91 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 91 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 92 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 92 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 93 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 93 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 94 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 94 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 95 of matrix permutations: 0.632
+
+INFO:__main__:Average accuracy for round 95 of matrix permutations: 0.632
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 96 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 96 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 97 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 97 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 98 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 98 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 99 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 99 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 100 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 100 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Total accuracy for all rounds of matrix permutations with 20.0 percent split: 0.66
+INFO:__main__:Total accuracy for all rounds of matrix permutations with 20.0 percent split: 0.66
+Average accuracy for round 1 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 1 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 2 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 2 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 3 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 3 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 4 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 4 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 5 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 5 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 6 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 6 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 7 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 7 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 8 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 8 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 9 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 9 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 10 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 10 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 11 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 11 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 12 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 12 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 13 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 13 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 14 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 14 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 15 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 15 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 16 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 16 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 17 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 17 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 18 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 18 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 19 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 19 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 20 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 20 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 21 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 21 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 22 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 22 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 23 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 23 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 24 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 24 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 25 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 25 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 26 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 26 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 27 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 27 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 28 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 28 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 29 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 29 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 30 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 30 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 31 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 31 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 32 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 32 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 33 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 33 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 34 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 34 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 35 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 35 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 36 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 36 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 37 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 37 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 38 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 38 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 39 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 39 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 40 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 40 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 41 of matrix permutations: 0.616
+
+INFO:__main__:Average accuracy for round 41 of matrix permutations: 0.616
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 42 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 42 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 43 of matrix permutations: 0.64
+
+INFO:__main__:Average accuracy for round 43 of matrix permutations: 0.64
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 44 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 44 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 45 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 45 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 46 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 46 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 47 of matrix permutations: 0.624
+
+INFO:__main__:Average accuracy for round 47 of matrix permutations: 0.624
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 48 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 48 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 49 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 49 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 50 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 50 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 51 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 51 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 52 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 52 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 53 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 53 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 54 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 54 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 55 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 55 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 56 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 56 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 57 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 57 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 58 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 58 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 59 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 59 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 60 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 60 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 61 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 61 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 62 of matrix permutations: 0.648
+
+INFO:__main__:Average accuracy for round 62 of matrix permutations: 0.648
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 63 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 63 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 64 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 64 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 65 of matrix permutations: 0.624
+
+INFO:__main__:Average accuracy for round 65 of matrix permutations: 0.624
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 66 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 66 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 67 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 67 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 68 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 68 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 69 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 69 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 70 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 70 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 71 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 71 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 72 of matrix permutations: 0.632
+
+INFO:__main__:Average accuracy for round 72 of matrix permutations: 0.632
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 73 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 73 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 74 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 74 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 75 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 75 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 76 of matrix permutations: 0.784
+
+INFO:__main__:Average accuracy for round 76 of matrix permutations: 0.784
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 77 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 77 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 78 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 78 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 79 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 79 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 80 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 80 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 81 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 81 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 82 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 82 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 83 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 83 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 84 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 84 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 85 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 85 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 86 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 86 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 87 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 87 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 88 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 88 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 89 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 89 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 90 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 90 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 91 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 91 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 92 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 92 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 93 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 93 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 94 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 94 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 95 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 95 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 96 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 96 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 97 of matrix permutations: 0.632
+
+INFO:__main__:Average accuracy for round 97 of matrix permutations: 0.632
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 98 of matrix permutations: 0.744
+
+INFO:__main__:Average accuracy for round 98 of matrix permutations: 0.744
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 99 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 99 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 100 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 100 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Total accuracy for all rounds of matrix permutations with 40.0 percent split: 0.67
+INFO:__main__:Total accuracy for all rounds of matrix permutations with 40.0 percent split: 0.67
+Average accuracy for round 1 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 1 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 2 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 2 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 3 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 3 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 4 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 4 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 5 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 5 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 6 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 6 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 7 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 7 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 8 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 8 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 9 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 9 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 10 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 10 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 11 of matrix permutations: 0.64
+
+INFO:__main__:Average accuracy for round 11 of matrix permutations: 0.64
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 12 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 12 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 13 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 13 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 14 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 14 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 15 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 15 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 16 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 16 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 17 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 17 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 18 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 18 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 19 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 19 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 20 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 20 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 21 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 21 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 22 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 22 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 23 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 23 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 24 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 24 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 25 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 25 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 26 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 26 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 27 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 27 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 28 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 28 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 29 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 29 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 30 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 30 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 31 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 31 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 32 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 32 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 33 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 33 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 34 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 34 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 35 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 35 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 36 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 36 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 37 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 37 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 38 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 38 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 39 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 39 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 40 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 40 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 41 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 41 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 42 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 42 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 43 of matrix permutations: 0.776
+
+INFO:__main__:Average accuracy for round 43 of matrix permutations: 0.776
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 44 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 44 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 45 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 45 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 46 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 46 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 47 of matrix permutations: 0.632
+
+INFO:__main__:Average accuracy for round 47 of matrix permutations: 0.632
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 48 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 48 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 49 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 49 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 50 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 50 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 51 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 51 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 52 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 52 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 53 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 53 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 54 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 54 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 55 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 55 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 56 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 56 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 57 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 57 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 58 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 58 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 59 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 59 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 60 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 60 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 61 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 61 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 62 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 62 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 63 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 63 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 64 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 64 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 65 of matrix permutations: 0.608
+
+INFO:__main__:Average accuracy for round 65 of matrix permutations: 0.608
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 66 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 66 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 67 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 67 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 68 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 68 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 69 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 69 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 70 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 70 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 71 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 71 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 72 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 72 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 73 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 73 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 74 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 74 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 75 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 75 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 76 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 76 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 77 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 77 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 78 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 78 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 79 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 79 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 80 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 80 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 81 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 81 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 82 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 82 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 83 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 83 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 84 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 84 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 85 of matrix permutations: 0.648
+
+INFO:__main__:Average accuracy for round 85 of matrix permutations: 0.648
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 86 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 86 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 87 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 87 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 88 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 88 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 89 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 89 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 90 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 90 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 91 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 91 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 92 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 92 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 93 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 93 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 94 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 94 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 95 of matrix permutations: 0.736
+
+INFO:__main__:Average accuracy for round 95 of matrix permutations: 0.736
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 96 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 96 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 97 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 97 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 98 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 98 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 99 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 99 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 100 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 100 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Total accuracy for all rounds of matrix permutations with 60.0 percent split: 0.68
+INFO:__main__:Total accuracy for all rounds of matrix permutations with 60.0 percent split: 0.68
+Average accuracy for round 1 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 1 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 2 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 2 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 3 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 3 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 4 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 4 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 5 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 5 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 6 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 6 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 7 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 7 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 8 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 8 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 9 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 9 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 10 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 10 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 11 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 11 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 12 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 12 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 13 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 13 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 14 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 14 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 15 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 15 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 16 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 16 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 17 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 17 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 18 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 18 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 19 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 19 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 20 of matrix permutations: 0.64
+
+INFO:__main__:Average accuracy for round 20 of matrix permutations: 0.64
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 21 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 21 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 22 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 22 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 23 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 23 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 24 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 24 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 25 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 25 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 26 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 26 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 27 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 27 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 28 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 28 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 29 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 29 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 30 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 30 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 31 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 31 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 32 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 32 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 33 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 33 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 34 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 34 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 35 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 35 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 36 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 36 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 37 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 37 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 38 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 38 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 39 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 39 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 40 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 40 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 41 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 41 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 42 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 42 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 43 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 43 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 44 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 44 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 45 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 45 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 46 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 46 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 47 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 47 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 48 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 48 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 49 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 49 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 50 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 50 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 51 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 51 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 52 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 52 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 53 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 53 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 54 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 54 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 55 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 55 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 56 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 56 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 57 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 57 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 58 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 58 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 59 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 59 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 60 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 60 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 61 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 61 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 62 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 62 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 63 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 63 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 64 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 64 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 65 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 65 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 66 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 66 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 67 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 67 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 68 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 68 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 69 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 69 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 70 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 70 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 71 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 71 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 72 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 72 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 73 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 73 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 74 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 74 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 75 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 75 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 76 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 76 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 77 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 77 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 78 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 78 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 79 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 79 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 80 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 80 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 81 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 81 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 82 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 82 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 83 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 83 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 84 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 84 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 85 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 85 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 86 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 86 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 87 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 87 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 88 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 88 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 89 of matrix permutations: 0.656
+
+INFO:__main__:Average accuracy for round 89 of matrix permutations: 0.656
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 90 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 90 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 91 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 91 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 92 of matrix permutations: 0.68
+
+INFO:__main__:Average accuracy for round 92 of matrix permutations: 0.68
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 93 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 93 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 94 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 94 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 95 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 95 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 96 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 96 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 97 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 97 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 98 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 98 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 99 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 99 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Average accuracy for round 100 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 100 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 862.74: MB
+INFO:__main__:Memory usage for PID 32169: 862.74: MB
+Total accuracy for all rounds of matrix permutations with 80.0 percent split: 0.69
+INFO:__main__:Total accuracy for all rounds of matrix permutations with 80.0 percent split: 0.69
+Average accuracy for round 1 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 1 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 2 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 2 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 3 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 3 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 4 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 4 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 5 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 5 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 6 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 6 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 7 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 7 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 8 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 8 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 9 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 9 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 10 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 10 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 11 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 11 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 12 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 12 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 13 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 13 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 14 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 14 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 15 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 15 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 16 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 16 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 17 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 17 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 18 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 18 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 19 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 19 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 20 of matrix permutations: 0.712
+
+INFO:__main__:Average accuracy for round 20 of matrix permutations: 0.712
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 21 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 21 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 22 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 22 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 23 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 23 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 24 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 24 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 25 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 25 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 26 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 26 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 27 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 27 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 28 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 28 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 29 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 29 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 30 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 30 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 31 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 31 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 32 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 32 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 33 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 33 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 34 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 34 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 35 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 35 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 36 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 36 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 37 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 37 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 38 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 38 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 39 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 39 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 40 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 40 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 41 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 41 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 42 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 42 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 43 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 43 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 44 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 44 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 45 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 45 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 46 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 46 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 47 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 47 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 48 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 48 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 49 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 49 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 50 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 50 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 51 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 51 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 52 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 52 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 53 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 53 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 54 of matrix permutations: 0.72
+
+INFO:__main__:Average accuracy for round 54 of matrix permutations: 0.72
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 55 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 55 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 56 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 56 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 57 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 57 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 58 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 58 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 59 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 59 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 60 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 60 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 61 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 61 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 62 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 62 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 63 of matrix permutations: 0.736
+
+INFO:__main__:Average accuracy for round 63 of matrix permutations: 0.736
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 64 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 64 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 65 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 65 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 66 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 66 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 67 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 67 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 68 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 68 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 69 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 69 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 70 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 70 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 71 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 71 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 72 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 72 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 73 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 73 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 74 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 74 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 75 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 75 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 76 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 76 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 77 of matrix permutations: 0.688
+
+INFO:__main__:Average accuracy for round 77 of matrix permutations: 0.688
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 78 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 78 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 79 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 79 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 80 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 80 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 81 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 81 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 82 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 82 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 83 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 83 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 84 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 84 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 85 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 85 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 86 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 86 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 87 of matrix permutations: 0.736
+
+INFO:__main__:Average accuracy for round 87 of matrix permutations: 0.736
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 88 of matrix permutations: 0.672
+
+INFO:__main__:Average accuracy for round 88 of matrix permutations: 0.672
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 89 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 89 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 90 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 90 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 91 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 91 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 92 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 92 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 93 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 93 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 94 of matrix permutations: 0.664
+
+INFO:__main__:Average accuracy for round 94 of matrix permutations: 0.664
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 95 of matrix permutations: 0.728
+
+INFO:__main__:Average accuracy for round 95 of matrix permutations: 0.728
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 96 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 96 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 97 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 97 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 98 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 98 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 99 of matrix permutations: 0.696
+
+INFO:__main__:Average accuracy for round 99 of matrix permutations: 0.696
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Average accuracy for round 100 of matrix permutations: 0.704
+
+INFO:__main__:Average accuracy for round 100 of matrix permutations: 0.704
+
+Memory usage for PID 32169: 863.28: MB
+INFO:__main__:Memory usage for PID 32169: 863.28: MB
+Total accuracy for all rounds of matrix permutations with 100 percent split: 0.69
+INFO:__main__:Total accuracy for all rounds of matrix permutations with 100 percent split: 0.69
