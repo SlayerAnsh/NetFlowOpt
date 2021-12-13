@@ -1,0 +1,26 @@
+load ../linearProgrammingModelVariables
+
+c(1) = 0.23679326772321618;
+c(2) = 0.6576271617140472;
+c(9) = 0.38610319308441887;
+c(14) = 0.016629456247670538;
+c(16) = 1.1937946921319293;
+c(64) = 6.3901134343888195;
+c(65) = 4.389475674840303;
+c(71) = 0.7606345942446946;
+c(73) = 0.8394943927923846;
+c(80) = 0.7612860951581271;
+
+
+
+%solve the optimization: (code copied from nf.m)
+LB=zeros(numArcs,1);
+if useOctave
+	ctype = repmat('S',length(b),1);
+	[xopt fval exitflag] = glpk(c,A,b, LB,[],ctype);
+else
+	[xopt fval exitflag] = linprog(c,[],[],A,b, LB);
+end
+
+%and display the classification: which of the output arcs took the flow
+disp(find(xopt(outputArcNums))); %Outputs 1, 2, or 3.

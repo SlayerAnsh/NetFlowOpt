@@ -1,0 +1,33 @@
+load ../linearProgrammingModelVariables
+genome221_key
+
+c(1) = coefficient1;
+c(2) = coefficient2;
+c(9) = coefficient3;
+c(14) = coefficient4;
+c(16) = coefficient5;
+c(64) = coefficient6;
+c(65) = coefficient7;
+c(71) = coefficient8;
+c(73) = coefficient9;
+c(80) = coefficient10;
+c(8) = 0.226542891635517;
+c(20) = 0.8265018970731299;
+c(24) = 0.16766001052648116;
+c(45) = 1.5597669199062327;
+c(60) = 1.8767086168150957;
+
+
+
+
+%solve the optimization: (code copied from nf.m)
+LB=zeros(numArcs,1);
+if useOctave
+	ctype = repmat('S',length(b),1);
+	[xopt fval exitflag] = glpk(c,A,b, LB,[],ctype);
+else
+	[xopt fval exitflag] = linprog(c,[],[],A,b, LB);
+end
+
+%and display the classification: which of the output arcs took the flow
+disp(find(xopt(outputArcNums))); %Outputs 1, 2, or 3.
